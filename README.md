@@ -1,5 +1,7 @@
 
 # FinTech Data Analysis
+![image](https://github.com/user-attachments/assets/99594906-3ffe-4d4e-a31e-a34c379b8a6d)
+
 
 ## Overview
 This repository is a summary of the **FinTech Data Analysis** module I completed, covering essential topics and hands-on experience using various tools like Python, Excel, Tableau, and Exploratory Data Analysis (EDA). The course was divided into four key blocks, providing insights into FinTech applications, credit risk analysis, financial structures, customer segmentation, and regulatory compliance.
